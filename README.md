@@ -1,5 +1,11 @@
 # VRcraft2017
 ABPro2016作品「VRcraft」を改良し、オープンキャンパスで展示した作品です
+  
+作成：Unity  
+使用したアセット：  
+SteamVR Plugin  
+VRTK - Virtual Reality Toolkit  
+Fantasy Skybox FREEE
 
 # 概要
 
