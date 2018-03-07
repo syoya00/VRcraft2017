@@ -5,7 +5,7 @@ ABPro2016作品「VRcraft」を改良し、オープンキャンパスで展示�
 使用したアセット：  
 SteamVR Plugin  
 VRTK - Virtual Reality Toolkit  
-Fantasy Skybox FREEE
+Fantasy Skybox FREE
 
 # 概要
 
